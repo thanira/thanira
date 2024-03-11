@@ -4,9 +4,9 @@ I'm Thanira and I'm finishing a Data Science Bootcamp. Those are the languages I
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     1| Python    |
+|     2| SQL       |
+|     3| Javascript|
 
 <!--
 **thanira/thanira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
